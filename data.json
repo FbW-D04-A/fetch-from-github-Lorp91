@@ -1,0 +1,32 @@
+[
+  {
+    "name": "hans",
+    "nachname": "wurst",
+    "city": "thueringen",
+    "age": "45"
+  },
+  {
+    "name": "axel",
+    "nachname": "schweiss",
+    "city": "schweinfurt",
+    "age": "21"
+  },
+  {
+    "name": "gerhart",
+    "nachname": "reinholzen",
+    "city": "dibbingen",
+    "age": "65"
+  },
+  {
+    "name": "rainer",
+    "nachname": "zufall",
+    "city": "altscheuerberg",
+    "age": "31"
+  },
+  {
+    "name": "günther",
+    "nachname": "lauch",
+    "city": "berlin",
+    "age": "51"
+  }
+]
